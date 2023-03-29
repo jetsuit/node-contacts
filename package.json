@@ -1,0 +1,23 @@
+{
+  "name": "node-contacts",
+  "version": "1.0.0",
+  "description": "cli-contacts-manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetsuit/node-contacts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetsuit/node-contacts/issues"
+  },
+  "homepage": "https://github.com/jetsuit/node-contacts#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
